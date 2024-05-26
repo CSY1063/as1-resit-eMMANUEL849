@@ -607,12 +607,20 @@ form{
 .word{
   justify-content: center;
   align-items: center;
-  padding-left: 500px;
-  padding-top: 200px;
-  padding-bottom: 500px;
-  border-spacing: 10%;
-}
+  
 
+}
+.word{
+  box-shadow: 0 5px 10px rgba(77, 15, 15, 0.459);
+  border-radius: 5px;
+  background: rgb(143, 142, 142);
+  text-align: center;
+  padding-bottom: 50px;
+  color: #000000;
+  text-shadow: 0 5px 10px rgba(83, 6, 6, 0.466);
+  font-size: 19px;
+  margin-top: 100px;
+}
  
 
   /*FOOTER AREA*/
