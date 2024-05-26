@@ -182,7 +182,7 @@ header input:checked ~ ul{
 /* Animate Background*/
 
 .background {
-    background-image: url(Picture/Untitled_Artwork.png);
+    background-image: url(Untitled_Artwork.png);
   
   background-size: 400% 400%;
   animation: Gradient 15s ease infinite;
